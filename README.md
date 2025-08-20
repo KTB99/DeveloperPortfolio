@@ -16,4 +16,4 @@ A Vite + React + TypeScript + Tailwind CSS baseline with shadcn/ui components.
 - tsconfig.json — TypeScript config with path aliases
 
 ## Notes
-- This baseline doesn’t include the full shadcn CLI flow; it includes a minimal, hand-picked component (Button) and tokens. You can add more components later with the shadcn CLI if desired.
+- This baseline doesn’t include the full shadcn CLI flow; it includes a minimal, hand-picked component (Button) and tokens. To anyone interested in forking, you can add more components later with the shadcn CLI if desired.

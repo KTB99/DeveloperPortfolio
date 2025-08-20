@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .bg { fill: #000000; }
+      .text { fill: #ffffff; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji"; font-weight: 800; }
+    </style>
+  </defs>
+  <!-- Rounded square background -->
+  <rect class="bg" x="4" y="4" width="56" height="56" rx="12" ry="12"/>
+  <!-- Centered KB text -->
+  <text class="text" x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-size="28">KB</text>
+</svg>
